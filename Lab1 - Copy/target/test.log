@@ -1,0 +1,240 @@
+13 Mar 2019 00:01:39,928 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:01:38.114 1 2 }
+13 Mar 2019 00:01:40,775 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 1 Bob 3 }
+13 Mar 2019 00:03:14,590 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:03:13.153 1 2 }
+13 Mar 2019 00:03:14,783 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 1 Bob 3 }
+13 Mar 2019 00:04:51,884 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:04:50.769 1 2 }
+13 Mar 2019 00:04:51,955 TRACE server.repository.DBLogger 20 delete - Enter ayy5678 deleted Show{ Artist{ 1 artist1 } Location{ 2 locatie2 adresa2 } 1970-01-01 02:00:00.0 222 100 }
+13 Mar 2019 00:04:52,110 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:05:44,255 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:05:42.565 1 2 }
+13 Mar 2019 00:05:44,692 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:06:45,381 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:06:44.22 1 2 }
+13 Mar 2019 00:06:46,291 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:08:07,403 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:08:06.119 1 2 }
+13 Mar 2019 00:08:08,006 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:08:25,321 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:08:23.769 1 2 }
+13 Mar 2019 00:08:25,393 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:08:36,490 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:08:34.849 1 2 }
+13 Mar 2019 00:08:36,809 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:24:24,273 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:24:21.895 1 2 }
+13 Mar 2019 00:24:24,463 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:26:02,276 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:26:00.593 1 2 }
+13 Mar 2019 00:26:02,558 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:26:18,193 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:26:16.239 1 2 }
+13 Mar 2019 00:26:18,257 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:28:57,682 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:28:56.497 1 2 }
+13 Mar 2019 00:28:57,950 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:34:37,096 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:34:36.01 1 2 }
+13 Mar 2019 00:34:37,644 TRACE server.repository.DBLogger 16 insertOrder - Enter ayy5678 sold Order{ 98 Bob 3 }
+13 Mar 2019 00:37:28,064 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:37:26.952 1 2 }
+13 Mar 2019 00:38:06,075 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:38:04.831 1 2 }
+13 Mar 2019 00:38:23,695 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:38:21.946 1 2 }
+13 Mar 2019 10:41:48,183 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 10:41:46.428 1 2 }
+13 Mar 2019 10:58:39,153 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 10:58:38.077 1 2 }
+13 Mar 2019 11:03:13,397 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 11:03:12.277 1 2 }
+13 Mar 2019 11:04:00,277 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 11:03:59.217 1 2 }
+13 Mar 2019 11:04:23,828 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 11:04:22.786 1 2 }
+13 Mar 2019 11:07:05,482 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 11:07:04.336 1 2 }
+13 Mar 2019 11:38:05,775 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 11:38:04.82 1 2 }
+13 Mar 2019 11:38:19,225 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 11:38:18.045 1 2 }
+13 Mar 2019 11:38:29,048 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 11:38:27.995 1 2 }
+13 Mar 2019 11:38:54,760 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 11:38:53.8 1 2 }
+13 Mar 2019 11:38:55,744 TRACE server.repository.DBLogger 24 update - Enter ayy5678 updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:00.0 1 2 } to 1070
+13 Mar 2019 11:38:55,795 TRACE server.repository.DBLogger 20 delete - Enter ayy5678 deleted Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:00.0 1 1070 }
+14 Mar 2019 20:51:59,401 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-14 20:51:57.407 1 2 }
+14 Mar 2019 21:31:49,760 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-14 21:31:48.011 1 2 }
+14 Mar 2019 21:34:30,531 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-14 21:34:28.787 1 2 }
+16 Mar 2019 00:24:55,161 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-16 00:24:53.047 1 2 }
+16 Mar 2019 00:25:30,228 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:00:00.0 1 2 }
+16 Mar 2019 00:26:05,782 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:00:00.0 1 2 }
+16 Mar 2019 00:26:19,294 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:00:00.0 1 2 }
+24 Mar 2019 18:50:41,995 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:00:00.0 1 2 }
+24 Mar 2019 18:52:50,013 TRACE server.repository.DBLogger 12 insert - Enter ayy5678 inserted Show{ Artist{ 1 asd } Location{ 1 asd asdasd } 2019-03-13 00:00:00.0 1 2 }
+25 Mar 2019 22:00:14,497 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 541 } to 529
+25 Mar 2019 22:00:14,612 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:14,668 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 529 } to 517
+25 Mar 2019 22:00:14,714 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:16,662 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 517 } to 505
+25 Mar 2019 22:00:16,710 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:19,165 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 505 } to 493
+25 Mar 2019 22:00:19,212 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:19,373 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 493 } to 481
+25 Mar 2019 22:00:19,421 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:19,533 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 481 } to 469
+25 Mar 2019 22:00:19,579 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:19,693 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 469 } to 457
+25 Mar 2019 22:00:19,739 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:23,978 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 457 } to 445
+25 Mar 2019 22:00:24,026 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:24,226 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 445 } to 433
+25 Mar 2019 22:00:24,273 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:24,582 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 433 } to 421
+25 Mar 2019 22:00:25,242 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 12 }
+25 Mar 2019 22:00:48,953 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 421 } to 409
+25 Mar 2019 22:00:49,007 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 123 12 }
+25 Mar 2019 22:02:37,522 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 409 } to 397
+25 Mar 2019 22:02:38,111 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 12 12 }
+25 Mar 2019 22:03:03,773 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 397 } to 385
+25 Mar 2019 22:03:03,821 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 12 12 }
+25 Mar 2019 22:03:05,906 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 385 } to 373
+25 Mar 2019 22:03:05,955 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 12 12 }
+25 Mar 2019 22:04:10,904 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 373 } to 372
+25 Mar 2019 22:04:10,958 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 1 }
+25 Mar 2019 22:04:12,578 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 372 } to 371
+25 Mar 2019 22:04:12,627 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 1 }
+25 Mar 2019 22:04:15,927 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 371 } to 370
+25 Mar 2019 22:04:15,980 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 1 }
+25 Mar 2019 22:04:18,388 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 370 } to 369
+25 Mar 2019 22:04:18,440 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 1 }
+25 Mar 2019 22:04:20,115 TRACE server.repository.DBLogger 24 update - Enter test updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 369 } to 368
+25 Mar 2019 22:04:20,162 TRACE server.repository.DBLogger 16 insertOrder - Enter test sold Order{ 35 nume de om 1 }
+25 Mar 2019 22:37:04,787 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 368 } to 355
+25 Mar 2019 22:37:04,841 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 asdas 13 }
+25 Mar 2019 22:37:11,651 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 355 } to 342
+25 Mar 2019 22:37:11,702 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 asdas 13 }
+26 Mar 2019 23:48:40,395 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 282 } to 281
+26 Mar 2019 23:48:40,819 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 asd 1 }
+26 Mar 2019 23:48:42,261 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 281 } to 280
+26 Mar 2019 23:48:42,309 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 asd 1 }
+26 Mar 2019 23:48:53,621 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 280 } to 279
+26 Mar 2019 23:48:53,667 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 asd 1 }
+26 Mar 2019 23:48:55,861 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 279 } to 278
+26 Mar 2019 23:48:55,907 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 asd 1 }
+26 Mar 2019 23:49:17,795 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 278 } to 276
+26 Mar 2019 23:49:17,841 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 a 2 }
+26 Mar 2019 23:49:20,453 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 276 } to 274
+26 Mar 2019 23:49:20,500 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 a 2 }
+26 Mar 2019 23:49:21,905 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 274 } to 272
+26 Mar 2019 23:49:22,893 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 a 2 }
+26 Mar 2019 23:51:03,262 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 272 } to 271
+26 Mar 2019 23:51:04,345 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 a 1 }
+26 Mar 2019 23:51:15,663 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 271 } to 270
+26 Mar 2019 23:51:15,709 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 a 1 }
+26 Mar 2019 23:51:20,547 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 270 } to 269
+26 Mar 2019 23:51:20,594 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 a 1 }
+26 Mar 2019 23:52:58,728 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 269 } to 268
+26 Mar 2019 23:52:59,129 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+26 Mar 2019 23:53:04,195 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 268 } to 267
+26 Mar 2019 23:53:04,247 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+26 Mar 2019 23:53:05,824 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 267 } to 266
+26 Mar 2019 23:53:05,870 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+26 Mar 2019 23:53:10,174 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 266 } to 265
+26 Mar 2019 23:53:10,221 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+26 Mar 2019 23:53:11,609 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 265 } to 264
+26 Mar 2019 23:53:12,343 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+26 Mar 2019 23:53:14,893 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 264 } to 263
+26 Mar 2019 23:53:14,941 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+26 Mar 2019 23:54:10,185 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 263 } to 262
+26 Mar 2019 23:54:10,700 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 10:24:08,915 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 262 } to 261
+27 Mar 2019 10:24:09,497 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 asd 1 }
+27 Mar 2019 10:24:09,637 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 261 } to 260
+27 Mar 2019 10:24:09,699 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 asd 1 }
+27 Mar 2019 10:24:09,778 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 260 } to 259
+27 Mar 2019 10:24:09,874 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 asd 1 }
+27 Mar 2019 11:09:59,140 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 251 } to 250
+27 Mar 2019 11:09:59,304 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 s 1 }
+27 Mar 2019 11:10:01,398 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 250 } to 249
+27 Mar 2019 11:10:01,464 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 s 1 }
+27 Mar 2019 11:10:05,800 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 249 } to 248
+27 Mar 2019 11:10:05,856 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 s 1 }
+27 Mar 2019 11:15:33,501 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 248 } to 247
+27 Mar 2019 11:15:34,073 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:15:36,286 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 247 } to 246
+27 Mar 2019 11:15:36,350 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:15:41,595 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 246 } to 245
+27 Mar 2019 11:15:41,648 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:15:48,690 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 245 } to 244
+27 Mar 2019 11:15:48,747 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:15:51,179 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 244 } to 243
+27 Mar 2019 11:15:51,237 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:15:52,707 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 243 } to 242
+27 Mar 2019 11:15:52,763 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:18:12,948 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 242 } to 241
+27 Mar 2019 11:18:13,307 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:28:21,737 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 241 } to 240
+27 Mar 2019 11:28:22,257 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:28:22,311 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 240 } to 239
+27 Mar 2019 11:28:22,360 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:28:24,626 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 239 } to 238
+27 Mar 2019 11:28:24,673 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:29:22,120 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 238 } to 237
+27 Mar 2019 11:29:22,930 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:29:23,001 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 237 } to 236
+27 Mar 2019 11:29:23,050 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:29:45,370 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 236 } to 235
+27 Mar 2019 11:29:45,774 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:29:55,588 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 235 } to 234
+27 Mar 2019 11:29:55,635 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:29:59,861 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 234 } to 233
+27 Mar 2019 11:29:59,908 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:30:14,761 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 233 } to 232
+27 Mar 2019 11:30:14,809 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:30:20,429 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 232 } to 231
+27 Mar 2019 11:30:20,476 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:30:27,413 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 231 } to 230
+27 Mar 2019 11:30:27,463 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+27 Mar 2019 11:30:28,904 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 230 } to 229
+27 Mar 2019 11:30:28,950 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1 1 }
+28 Mar 2019 13:14:16,254 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 229 } to 228
+28 Mar 2019 13:14:16,602 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 aaa 1 }
+28 Mar 2019 13:14:16,823 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 228 } to 227
+28 Mar 2019 13:14:16,909 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 aaa 1 }
+28 Mar 2019 13:14:27,008 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 227 } to 226
+28 Mar 2019 13:14:27,069 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1111 1 }
+28 Mar 2019 13:14:32,111 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 226 } to 225
+28 Mar 2019 13:14:32,170 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1111 1 }
+28 Mar 2019 13:14:33,707 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 225 } to 224
+28 Mar 2019 13:14:33,761 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1111 1 }
+28 Mar 2019 13:14:35,863 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 1000 224 } to 223
+28 Mar 2019 13:14:35,927 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 35 1111 1 }
+14 Apr 2019 15:19:10,536 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 3108 } to 3107
+14 Apr 2019 15:19:10,906 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 sdfgh 1 }
+14 Apr 2019 15:19:10,986 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 3107 } to 3106
+14 Apr 2019 15:19:11,033 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 sdfgh 1 }
+14 Apr 2019 15:19:12,714 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 3106 } to 3105
+14 Apr 2019 15:19:12,762 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 sdfgh 1 }
+14 Apr 2019 15:19:14,512 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 3105 } to 3104
+14 Apr 2019 15:19:14,557 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 sdfgh 1 }
+14 Apr 2019 15:19:15,528 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 3104 } to 3103
+14 Apr 2019 15:19:15,579 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 sdfgh 1 }
+14 Apr 2019 15:19:27,626 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 3103 } to 3102
+14 Apr 2019 15:19:27,678 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 sdfgh 1 }
+14 Apr 2019 15:19:33,410 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 3102 } to 3101
+14 Apr 2019 15:19:33,456 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 sdfgh 1 }
+16 Apr 2019 00:29:36,524 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2045 } to 2044
+16 Apr 2019 00:29:36,897 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 asd 1 }
+16 Apr 2019 00:29:37,701 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2044 } to 2043
+16 Apr 2019 00:29:37,747 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 asd 1 }
+16 Apr 2019 00:29:39,956 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2043 } to 2042
+16 Apr 2019 00:29:40,662 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 asd 1 }
+16 Apr 2019 00:29:41,297 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2042 } to 2041
+16 Apr 2019 00:29:41,344 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 asd 1 }
+16 Apr 2019 00:29:43,785 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2041 } to 2040
+16 Apr 2019 00:29:43,833 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 asd 1 }
+16 Apr 2019 00:29:52,959 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2040 } to 2039
+16 Apr 2019 00:29:53,009 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 asd 1 }
+16 Apr 2019 00:29:54,023 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2039 } to 2038
+16 Apr 2019 00:29:54,070 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 asd 1 }
+16 Apr 2019 00:31:19,740 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2038 } to 2037
+16 Apr 2019 00:31:20,788 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 df 1 }
+16 Apr 2019 00:31:22,386 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2037 } to 2036
+16 Apr 2019 00:31:22,433 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 df 1 }
+16 Apr 2019 00:31:23,768 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 2222 2036 } to 2035
+16 Apr 2019 00:31:23,815 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 100 df 1 }
+17 Apr 2019 10:21:03,208 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 13 } to 12
+17 Apr 2019 10:21:03,653 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 asd 1 }
+17 Apr 2019 10:21:04,296 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 12 } to 11
+17 Apr 2019 10:21:04,343 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 asd 1 }
+17 Apr 2019 10:21:04,930 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 11 } to 10
+17 Apr 2019 10:21:04,978 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 asd 1 }
+17 Apr 2019 10:21:06,296 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 10 } to 9
+17 Apr 2019 10:21:06,345 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 asd 1 }
+17 Apr 2019 10:21:07,199 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 9 } to 8
+17 Apr 2019 10:21:07,246 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 asd 1 }
+17 Apr 2019 10:21:26,818 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 8 } to 7
+17 Apr 2019 10:21:26,865 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 asd 1 }
+17 Apr 2019 10:21:30,788 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 7 } to 6
+17 Apr 2019 10:21:30,838 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 asd 1 }
+17 Apr 2019 10:21:31,834 TRACE server.repository.DBLogger 24 update - Enter admin updated the remaining tickets for Show{ Artist{ 1 artist1 } Location{ 1 locatie1 adresa1 } 1970-01-01 02:00:02.019 222 6 } to 5
+17 Apr 2019 10:21:31,879 TRACE server.repository.DBLogger 16 insertOrder - Enter admin sold Order{ 101 asd 1 }
+12 Aug 2019 00:16:41,376 TRACE server.repository.DBLogger 15 delete - Enter admin deleted {"reservationId":1,"userId":1,"parkingSpaceId":1,"startDate":1565125200000,"endDate":1565125200000}
